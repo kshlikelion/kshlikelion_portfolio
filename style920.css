@@ -15,14 +15,6 @@
 }
 
 @font-face {
-  font-family: "Galmuri14";
-  src: local("Galmuri14 Regular"), url("./Galmuri14.woff2") format("woff2"),
-    url("./Galmuri14.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-}
-
-@font-face {
   font-family: "ACCchildrenfall";
   src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112-2@1.0/ACCchildrenfall.woff")
     format("woff");
